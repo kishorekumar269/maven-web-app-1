@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>madhuprince</name>
-	      <url>http://13.126.192.197:8081/repository/madhuprince/</url>
+	      <url>http://52.66.207.147:8081/repository/madhuprince/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>madhuprince-snapshot</name>
-	      <url>http://13.126.192.197:8081/repository/madhuprince-snapshot/</url>
+	      <url>http://52.66.207.147:8081/repository/madhuprince-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
