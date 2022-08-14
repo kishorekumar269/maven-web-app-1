@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>mommy</name>
-	      <url>http://13.232.203.253:8081/repository/mommy/</url>
+	      <name>king</name>
+	      <url>http://13.232.203.253:8081/repository/king/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>mommy-snapshot</name>
-	      <url>http://13.232.203.253:8081/repository/mommy-snapshot/</url>
+	      <name>king-snapshot</name>
+	      <url>http://13.232.203.253:8081/repository/king-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
